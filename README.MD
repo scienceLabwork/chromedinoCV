@@ -42,4 +42,7 @@ Highest Score I can Achieved was ***34790*** and few minutes back I have Achieve
 * [Instagram](https://www.instagram.com/rudra_shah_) <br>
 * [Twitter](https://www.twitter.com/labworkscience)
 
+### Visitor Count <br>
+![HitCount](https://views.whatilearened.today/views/github/scienceLabwork/chromedinoCV.svg)
+
 "All rights reserved & logo shouldn't be remade without prior permission"
