@@ -1,5 +1,3 @@
-![logo](https://github.com/scienceLabwork/Rock_paper_scissor/blob/master/Wholelogo%20copy%202.png)
-
 # Chrome-Dino CV <img src="https://media.giphy.com/media/J4reC3QtQeQNoVQM6U/giphy.gif" width="25px">
 I think all of you are found of chrome dino when your internet is down. I always wonder that How much high score one can get in [CHROME-DINO](chrome://dino) game So, I thought of making a programm in ComputerVision that can play [CHROME-DINO](chrome://dino) game and get me the highest score(IT CAN ACHIEVE).
 
